@@ -28,7 +28,7 @@ pageEncoding="UTF-8"%>
 	/* ========ecsite LAYOUT======== */
 		#top {
 			width:780px;
-			margin:30pxauto;
+			margin:30px auto;
 			border:1px solid #333;
 		}
 		#header{
